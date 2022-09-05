@@ -33,7 +33,7 @@ Via [Composer](http://getcomposer.org/), adicione as linhas abaixo no arquivo `c
     }
   ],
   "require": {
-    "aquidornne/pixrecebimentos-itau": "*@dev"
+    "aquidornne/irp": "*@dev"
   }
 }
 
