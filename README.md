@@ -29,11 +29,11 @@ Via [Composer](http://getcomposer.org/), adicione as linhas abaixo no arquivo `c
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@github.com:tiagoskabrazil/pixrecebimentos-itau.git"
+      "url": "https://github.com/aquidornne/irp.git"
     }
   ],
   "require": {
-    "tiagoskabrazil/pixrecebimentos-itau": "*@dev"
+    "aquidornne/pixrecebimentos-itau": "*@dev"
   }
 }
 
